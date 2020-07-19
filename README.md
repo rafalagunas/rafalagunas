@@ -3,7 +3,7 @@
    
 I am an enthusiastic Fullstack MERN developer, born in San José del Cabo, BCS and living at the beach (Cancún 🌴). 
 
-- 👌🏻 *Master Coach at Platzi*, *Github Campus Expert* & *CEO Founder of DevHoodMX*
+- 👌🏻 *Master Coach at Platzi 💚*, *Github Campus Expert 🚩* & *CEO Founder of DevHoodMX*
 - 🤓 Full Stack MERN - Speaker - Mentor
 - 😎 I’m looking to collaborate on mobile, destkop and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
