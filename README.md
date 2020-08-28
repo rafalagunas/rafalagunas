@@ -11,7 +11,7 @@ I am an enthusiastic Fullstack MERN developer, born in San José del Cabo, BCS a
 - 📫 How to reach me:
 
 
- [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/)  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](guitronleafar@gmail.com)
+ [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/rafaellagunas/)  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](guitronleafar@gmail.com)
 
 
 ----
@@ -20,5 +20,5 @@ I am an enthusiastic Fullstack MERN developer, born in San José del Cabo, BCS a
   
 .    
    
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafastaria&show_icons=true)
+![Rafastaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafastaria&show_icons=true)
 
