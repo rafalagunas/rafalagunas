@@ -20,5 +20,5 @@ I am an enthusiastic Fullstack MERN developer, born in San José del Cabo, BCS a
   
 .    
    
-![Rafastaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafastaria&show_icons=true)
+![Rafastaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafalagunas&show_icons=true)
 
