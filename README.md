@@ -18,5 +18,5 @@ I am an enthusiastic Fullstack MERN developer, born in San José del Cabo, BCS a
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
-[![Rafalaguna's github stats](https://github-readme-stats.vercel.app/api?username=rafalagunas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalagunas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafalaguna's github stats](https://github-readme-stats.vercel.app/api?username=rafalagunas&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalagunas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
