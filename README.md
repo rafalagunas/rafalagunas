@@ -20,4 +20,3 @@ I am an enthusiastic Fullstack MERN developer, born in San José del Cabo, BCS a
   
 [![Rafalaguna's github stats](https://github-readme-stats.vercel.app/api?username=rafalagunas&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalagunas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rafalaguna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafalagunas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
